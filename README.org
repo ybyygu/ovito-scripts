@@ -1,0 +1,6 @@
+#+TITLE: A Collection of My ovito Scripts
+#+SETUPFILE: ~/Notes/common.org
+
+* References
+- [[https://ovito.org/manual/python/index.html][OVITO Scripting Reference — OVITO 2.9.0 documentation]]
+- [[https://ovito.org/manual/python/modules/ovito_modifiers.html][ovito.modifiers — OVITO 2.9.0 documentation]]
